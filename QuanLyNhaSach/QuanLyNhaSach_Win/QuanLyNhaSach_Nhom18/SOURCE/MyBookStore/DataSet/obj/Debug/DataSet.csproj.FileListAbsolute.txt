@@ -1,0 +1,5 @@
+D:\WinNC\MyBookStore\MyBookStore\DataSet\bin\Debug\DataSet.dll.config
+D:\WinNC\MyBookStore\MyBookStore\DataSet\bin\Debug\DataSet.dll
+D:\WinNC\MyBookStore\MyBookStore\DataSet\bin\Debug\DataSet.pdb
+D:\WinNC\MyBookStore\MyBookStore\DataSet\obj\Debug\DataSet.dll
+D:\WinNC\MyBookStore\MyBookStore\DataSet\obj\Debug\DataSet.pdb

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfileFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/btnDangXuat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="57dp"
+            android:background="#56b900"
+            android:text="Đăng xuất"
+            android:textColor="@android:color/background_light" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="10dp"
+            android:fontFamily="serif"
+            android:text="Thành viên Books Store "
+            android:textAlignment="center"
+            android:textColor="@android:color/holo_green_dark"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="164dp"
+            android:layout_height="151dp"
+            android:layout_below="@+id/textView1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-10dp"
+            android:src="@drawable/vui" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignTop="@+id/textView3"
+            android:layout_marginEnd="33dp"
+            android:fontFamily="serif"
+            android:text="Chỉnh sửa"
+            android:textAlignment="viewStart"
+            android:textColor="@android:color/background_dark"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="174dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="35dp"
+            android:layout_marginTop="196dp"
+            android:fontFamily="serif"
+            android:text="Thông tin tài khoản"
+            android:textAlignment="viewStart"
+            android:textColor="@android:color/background_dark"
+            android:textSize="14sp" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="20dp"
+            android:layout_height="21dp"
+            android:layout_alignStart="@+id/textView1"
+            android:layout_alignTop="@+id/textView3"
+            android:src="@drawable/iconcanhan2" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="20dp"
+            android:layout_height="17dp"
+            android:layout_alignEnd="@+id/textView1"
+            android:layout_alignTop="@+id/textView5"
+            android:src="@drawable/iconright" />
+
+        <TextView
+            android:id="@+id/textView23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignStart="@+id/textView3"
+            android:layout_marginTop="225dp"
+            android:text="Họ và tên"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignStart="@+id/textView23"
+            android:layout_marginBottom="137dp"
+            android:fontFamily="serif"
+            android:text="Lịch sử mua hàng" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="23dp"
+            android:layout_height="19dp"
+            android:layout_alignStart="@+id/textView1"
+            android:layout_alignTop="@+id/textView24"
+            android:src="@drawable/iconhistory" />
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="16dp"
+            android:layout_height="35dp"
+            android:layout_alignEnd="@+id/textView1"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="165dp"
+            android:src="@drawable/iconright" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="22dp"
+            android:layout_height="20dp"
+            android:layout_alignEnd="@+id/textView1"
+            android:layout_alignTop="@+id/textView24"
+            android:src="@drawable/iconright" />
+
+        <TextView
+            android:id="@+id/textView25"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="174dp"
+            android:layout_toStartOf="@+id/imageView4"
+            android:fontFamily="serif"
+            android:text="Xem thêm" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/textView5"
+            android:layout_alignTop="@+id/textView24"
+            android:fontFamily="serif"
+            android:text="Xem thêm" />
+
+        <TextView
+            android:id="@+id/textView26"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/textView23"
+            android:layout_toEndOf="@+id/textView3"
+            android:text="Hoàng Mỹ" />
+
+        <TextView
+            android:id="@+id/textView27"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignStart="@+id/textView3"
+            android:layout_marginTop="280dp"
+            android:text="Mail" />
+
+        <TextView
+            android:id="@+id/textView28"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/textView27"
+            android:layout_toEndOf="@+id/textView3"
+            android:text="my@gmail.com" />
+
+        <TextView
+            android:id="@+id/textView29"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignStart="@+id/textView3"
+            android:layout_marginTop="253dp"
+            android:text="Cấp độ thành viên" />
+
+        <TextView
+            android:id="@+id/textView30"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/textView29"
+            android:layout_toEndOf="@+id/textView3"
+            android:text="Thân thiết" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/textView3"
+            android:layout_alignTop="@+id/textView25"
+            android:fontFamily="serif"
+            android:text="Sản phẩm yêu thích" />
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="23dp"
+            android:layout_height="19dp"
+            android:layout_alignStart="@+id/textView1"
+            android:layout_alignTop="@+id/textView25"
+            android:layout_marginStart="0dp"
+            android:src="@drawable/icontim" />
+
+
+    </RelativeLayout>
+
+</FrameLayout>

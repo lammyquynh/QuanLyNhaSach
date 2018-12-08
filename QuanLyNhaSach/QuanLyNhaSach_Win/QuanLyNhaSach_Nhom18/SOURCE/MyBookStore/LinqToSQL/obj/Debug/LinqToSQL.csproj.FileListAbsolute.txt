@@ -1,0 +1,10 @@
+D:\WinNC\MyBookStore\MyBookStore\LinqToSQL\bin\Debug\LinqToSQL.dll.config
+D:\WinNC\MyBookStore\MyBookStore\LinqToSQL\bin\Debug\LinqToSQL.dll
+D:\WinNC\MyBookStore\MyBookStore\LinqToSQL\bin\Debug\LinqToSQL.pdb
+D:\WinNC\MyBookStore\MyBookStore\LinqToSQL\obj\Debug\LinqToSQL.dll
+D:\WinNC\MyBookStore\MyBookStore\LinqToSQL\obj\Debug\LinqToSQL.pdb
+E:\MyBookStore\LinqToSQL\bin\Debug\LinqToSQL.dll.config
+E:\MyBookStore\LinqToSQL\bin\Debug\LinqToSQL.dll
+E:\MyBookStore\LinqToSQL\bin\Debug\LinqToSQL.pdb
+E:\MyBookStore\LinqToSQL\obj\Debug\LinqToSQL.dll
+E:\MyBookStore\LinqToSQL\obj\Debug\LinqToSQL.pdb

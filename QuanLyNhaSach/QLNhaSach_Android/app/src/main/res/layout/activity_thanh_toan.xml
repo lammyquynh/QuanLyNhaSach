@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ThanhToan">
+
+    <Button
+        android:id="@+id/btnXacNhan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/checkBox3"
+        android:layout_marginTop="-76dp"
+        android:background="#56b900"
+        android:text="xác nhận đơn hàng"
+        android:textColor="@android:color/background_light" />
+
+    <TextView
+        android:id="@+id/DC"
+        android:layout_width="321dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="11dp"
+        android:fontFamily="serif"
+        android:text="ĐỊA CHỈ THANH TOÁN"
+        android:textColor="@android:color/holo_green_dark"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.829"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="31dp" />
+
+    <TextView
+        android:id="@+id/DC2"
+        android:layout_width="321dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/txtDiacChi"
+        android:fontFamily="serif"
+        android:text="PHƯƠNG THỨC THANH TOÁN"
+        android:textColor="@android:color/holo_green_dark"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.829"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="31dp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="37dp"
+        android:layout_height="28dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/DC"
+        android:layout_marginStart="16dp"
+        app:srcCompat="@drawable/iconhome2"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="40dp" />
+
+    <EditText
+        android:id="@+id/txtTenKH"
+        android:layout_width="176dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="64dp"
+        android:ems="10"
+        android:hint="Tên *"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/txtHoKH"
+        android:layout_width="195dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/txtTenKH"
+        android:ems="10"
+        android:hint="Họ *"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/txtsdtKH"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="123dp"
+        android:ems="10"
+        android:hint="Điện thoại *"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/txtNhapLaiSDT"
+        android:layout_width="193dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/txtsdtKH"
+        android:ems="10"
+        android:hint="Nhập lại điện thoại *"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/txtDiacChi"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="178dp"
+        android:ems="10"
+        android:hint="Địa chỉ"
+        android:inputType="textMultiLine"
+        android:gravity="start"/>
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="39dp"
+        android:layout_height="28dp"
+        android:layout_alignStart="@+id/imageView3"
+        android:layout_below="@+id/txtDiacChi"
+        app:srcCompat="@drawable/iconcarrd" />
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="221dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/imageView3"
+        android:layout_marginBottom="247dp"
+        android:text="Chuyển khoản ngân hàng" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/imageView3"
+        android:layout_marginBottom="156dp"
+        android:text="Thanh toán bằng thẻ ATM nội địa/ Internet Banking" />
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/imageView3"
+        android:layout_marginBottom="200dp"
+        android:text="Thanh toán bằng tiền mặt khi nhận hàng" />
+
+</RelativeLayout>

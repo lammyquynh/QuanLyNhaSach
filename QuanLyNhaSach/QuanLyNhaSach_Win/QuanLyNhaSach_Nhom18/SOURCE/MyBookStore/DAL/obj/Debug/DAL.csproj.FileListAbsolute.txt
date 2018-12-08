@@ -1,0 +1,17 @@
+D:\WinNC\MyBookStore\DAL\bin\Debug\DAL.dll.config
+D:\WinNC\MyBookStore\DAL\bin\Debug\DAL.dll
+D:\WinNC\MyBookStore\DAL\bin\Debug\DAL.pdb
+D:\WinNC\MyBookStore\DAL\obj\Debug\DAL.dll
+D:\WinNC\MyBookStore\DAL\obj\Debug\DAL.pdb
+D:\WinNC\MyBookStore\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\WinNC\MyBookStore\MyBookStore\DAL\bin\Debug\DAL.dll.config
+D:\WinNC\MyBookStore\MyBookStore\DAL\bin\Debug\DAL.dll
+D:\WinNC\MyBookStore\MyBookStore\DAL\bin\Debug\DAL.pdb
+D:\WinNC\MyBookStore\MyBookStore\DAL\obj\Debug\DAL.dll
+D:\WinNC\MyBookStore\MyBookStore\DAL\obj\Debug\DAL.pdb
+D:\WinNC\MyBookStore\MyBookStore\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\MyBookStore\DAL\bin\Debug\DAL.dll.config
+E:\MyBookStore\DAL\bin\Debug\DAL.dll
+E:\MyBookStore\DAL\bin\Debug\DAL.pdb
+E:\MyBookStore\DAL\obj\Debug\DAL.dll
+E:\MyBookStore\DAL\obj\Debug\DAL.pdb

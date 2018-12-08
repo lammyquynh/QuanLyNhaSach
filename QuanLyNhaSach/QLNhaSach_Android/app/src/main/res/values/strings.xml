@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BOOKS STORE</string>
+    <string name="title_shop">Shop</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="combo_n_i_b_t">Combo Nổi Bật</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

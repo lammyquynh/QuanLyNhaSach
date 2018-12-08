@@ -1,0 +1,13 @@
+D:\WinNC\MyBookStore\MyBookStore\bin\Debug\MyBookStore.exe.config
+D:\WinNC\MyBookStore\MyBookStore\bin\Debug\MyBookStore.exe
+D:\WinNC\MyBookStore\MyBookStore\bin\Debug\MyBookStore.pdb
+D:\WinNC\MyBookStore\MyBookStore\obj\Debug\MyBookStore.csprojResolveAssemblyReference.cache
+D:\WinNC\MyBookStore\MyBookStore\obj\Debug\MyBookStore.Properties.Resources.resources
+D:\WinNC\MyBookStore\MyBookStore\obj\Debug\MyBookStore.csproj.GenerateResource.Cache
+D:\WinNC\MyBookStore\MyBookStore\obj\Debug\MyBookStore.exe
+D:\WinNC\MyBookStore\MyBookStore\obj\Debug\MyBookStore.pdb
+D:\WinNC\MyBookStore\MyBookStore\obj\Debug\MyBookStore.exe.licenses
+D:\WinNC\MyBookStore\MyBookStore\obj\Debug\MyBookStore.Frm_login.resources
+D:\WinNC\MyBookStore\MyBookStore\obj\Debug\MyBookStore.Frm_ThayDoiCauHinh.resources
+D:\WinNC\MyBookStore\MyBookStore\obj\Debug\MyBookStore.Frm_User.resources
+D:\WinNC\MyBookStore\MyBookStore\obj\Debug\MyBookStore.RibbonForm1.resources
